@@ -1,2 +1,2 @@
 # weather-application-using-javascript-api
-#progidy-infotech-task-05
+#prodigy-infotech-task-05
